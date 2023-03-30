@@ -39,6 +39,6 @@ keys = dict(
 * [Functions to Obtain Tweets from API](https://github.com/datascisteven/Medium-Blogs/tree/main/Hate-Tweet-Detector)
 * [HASOC Dataset](https://hasocfire.github.io/hasoc/2021/dataset.html)
 * [Hugging Face Dataset](https://huggingface.co/datasets/tweets_hate_speech_detection)
-* [The Aristotle Dataset](https://github.com/datascisteven/Medium-Blogs/tree/main/Hate-Tweet-Detector)
-* [The Copenhagen Dataset](https://github.com/datascisteven/Medium-Blogs/tree/main/Hate-Tweet-Detector)
+* [The Aristotle Dataset]([https://github.com/datascisteven/Medium-Blogs/tree/main/Hate-Tweet-Detector](https://github.com/datascisteven/Medium-Blogs/tree/main/Hate-Tweet-Detector/data))
+* [The Copenhagen Dataset]([https://github.com/datascisteven/Medium-Blogs/tree/main/Hate-Tweet-Detector](https://github.com/datascisteven/Medium-Blogs/tree/main/Hate-Tweet-Detector/data))
 
