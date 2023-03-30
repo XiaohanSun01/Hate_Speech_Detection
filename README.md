@@ -15,7 +15,7 @@ In recent years, social media platforms have significantly increased, allowing p
 
 ### Executing program
 
-* Download the whole project via GitHub
+* Download the whole project via GitHub.
 * To run the file "Data_Collection_and_cleaning.ipynb" successfully, you need to create a "config.py" file. Below is what the file looks like, you should copy and paste your associated and generated keys and tokens from the Twitter API v2. 
 ```
 keys = dict(
