@@ -30,12 +30,11 @@ keys = dict(
 
 ## Authors
 
-Xiaohan Sun
-sunxiaohan0401@gmail.com
+* Xiaohan Sun
+* sunxiaohan0401@gmail.com
 
 
 ## Acknowledgments
 
-Inspiration, code snippets, etc.
 * [Functions to Obtain Tweets from API](https://github.com/datascisteven/Medium-Blogs/tree/main/Hate-Tweet-Detector)
 
